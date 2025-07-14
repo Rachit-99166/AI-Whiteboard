@@ -1,17 +1,17 @@
-# **AI-Powered Whiteboard**
+# AI-Powered Whiteboard
 
-## **Overview**
-This project demonstrates an **AI-Powered Whiteboard** that integrates state-of-the-art technologies, including Python, LangChain, Vision AI, ChatBot functionalities, and advanced drawing tools. The whiteboard leverages **Gemini 2.0 Multimodal**, **llama-3.3-70b-versatile**, and **Groq** to enable seamless multimodal interactions, making it a versatile tool for various applications.
+# Overview
+The AI Whiteboard is an interactive tool that recognizes sketches and handwriting in real-time, offering instant feedback through an integrated AI chatbot. It combines drawing recognition with natural language interaction to enhance learning.
 
 ---
 
-## **Features**
-- ✍️ **Interactive Drawing Tools**: Create diagrams, annotate, and interact visually on the whiteboard.
-- 🤖 **ChatBot Integration**: AI assistant powered by llama-3.3-70b for real-time assistance.
-- 🌐 **LangChain Framework**: Integrates AI capabilities with dynamic workflows.
-- 👁️ **Vision AI**: Processes and understands visual data for enhanced user interaction.
-- 🎨 **Gemini 2.0 Multimodal**: Leverages advanced multimodal AI for natural and intuitive interactions.
-- 🚀 **Groq**: To access LLM model through api key.
+# Features
+Interactive Drawing Tools: Create diagrams, annotate, and interact visually on the whiteboard.
+ChatBot Integration: AI assistant powered by llama-3.3-70b for real-time assistance.
+LangChain Framework: Integrates AI capabilities with dynamic workflows.
+Vision AI: Processes and understands visual data for enhanced user interaction.
+Gemini 2.0 Multimodal**: Leverages advanced multimodal AI for natural and intuitive interactions.
+Groq: To access LLM model through api key.
 
 ---
 
