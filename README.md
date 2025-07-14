@@ -28,11 +28,11 @@ Frameworks & Tools:
   - ChatBot llama-3.3-70b-versatile
   - Groq API key
 
-<img width="1386" height="796" alt="Image" src="https://github.com/user-attachments/assets/6a3213bb-f620-4dc6-a21e-68dbd7f27282" />
-
 
 # Steps to Run this Project
 1. Clone the repository:
 2. Create Conda Environment:
 3. Install dependencies:
 4. Run the project:
+
+<img width="1386" height="796" alt="Image" src="https://github.com/user-attachments/assets/6a3213bb-f620-4dc6-a21e-68dbd7f27282" />
