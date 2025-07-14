@@ -11,8 +11,11 @@ Interactive Drawing Tools: Create diagrams, annotate, and interact visually on t
 ChatBot Integration: AI assistant powered by llama-3.3-70b for real-time assistance.
 
 LangChain Framework: Integrates AI capabilities with dynamic workflows.
+
 Vision AI: Processes and understands visual data for enhanced user interaction.
+
 Gemini 2.0 Multimodal: Leverages advanced multimodal AI for natural and intuitive interactions.
+
 Groq: To access LLM model through api key.
 
 
