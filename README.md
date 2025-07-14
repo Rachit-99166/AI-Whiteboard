@@ -18,6 +18,7 @@ Groq: To access LLM model through api key.
 
 # Tech Stack
 Programming Language: Python 3.12
+
 Frameworks & Tools:
   - LangChain Framework
   - Vision AI Gemini 2.0 Multimodal
