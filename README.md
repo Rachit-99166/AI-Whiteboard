@@ -17,7 +17,7 @@ Vision AI: Processes and understands visual data for enhanced user interaction.
 Gemini 2.0 Multimodal: Leverages advanced multimodal AI for natural and intuitive interactions.
 
 Groq: To access LLM model through api key.
-
+ 
 
 # Tech Stack
 Programming Language: Python 3.12
