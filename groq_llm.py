@@ -9,7 +9,7 @@ class TutorChatBot:
         """Initialize the TutorChatBot with the necessary configurations."""
         load_dotenv()
         api_key = os.getenv("GROQ_API_KEY")
-        
+         
         self.llm = ChatGroq(model_name="llama-3.3-70b-versatile", api_key=api_key)
         self.prompt_template = PromptTemplate(
             template="You are an experienced tutor. You have to answer based on user query. {user_input}",
