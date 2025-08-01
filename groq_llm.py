@@ -6,7 +6,6 @@ import os
 
 class TutorChatBot:
     def __init__(self):
-        """Initialize the TutorChatBot with the necessary configurations."""
         load_dotenv()
         api_key = os.getenv("GROQ_API_KEY")
          
@@ -17,7 +16,6 @@ class TutorChatBot:
         )
 
     def respond(self, user_input):
-        """Generate a response for the given user input."""
         chain = self.prompt_template | self.llm
         response = chain.invoke({"user_input": user_input})
         return response
