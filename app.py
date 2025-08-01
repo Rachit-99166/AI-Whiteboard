@@ -17,7 +17,7 @@ root.resizable(False, False)
 current_x = 0
 current_y = 0
 start_x = None  
-start_y = None
+start_y = None 
 color = "black"
 active_tool = None  
 
